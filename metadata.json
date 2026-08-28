@@ -1,0 +1,6 @@
+{
+  "name": "CHOEDOO.CO",
+  "description": "Aplikasi Kasir CHOEDOO.CO Coffee on Style dengan role Admin dan Rider",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
